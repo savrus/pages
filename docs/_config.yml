@@ -19,3 +19,5 @@ url: "https://savrus.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-minimal
